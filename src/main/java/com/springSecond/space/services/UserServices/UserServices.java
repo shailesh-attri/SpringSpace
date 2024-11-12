@@ -7,7 +7,7 @@ import com.springSecond.space.Repository.UserRepository.UserRepository;
 import com.springSecond.space.ResponseDTO.ResponseDTO;
 import com.springSecond.space.ResponseDTO.UserObject;
 import com.springSecond.space.models.UserEntity;
-import com.springSecond.space.utils.SecurityUtils;
+import com.springSecond.space.utils.SecurityUtil;
 import org.bson.types.ObjectId;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -64,7 +64,7 @@ public class UserServices {
     }
 
     public ResponseDTO<Map<String, Object>> updateUserById(payloadDTO.RegisterDTO request) {
-        String userId = SecurityUtils.getUserIdFromSecurityContext();
+        String userId = SecurityUtil.getUserIdFromSecurityContext();
         assert userId != null;
 
         if (userId.trim().isEmpty()) return ResponseDTO.error(HttpStatus.BAD_REQUEST, "Invalid user ID", "USER_ID_INVALID");
@@ -89,7 +89,7 @@ public class UserServices {
     }
 
     public ResponseDTO<Map<String, Object>> uploadImage(MultipartFile file) {
-        String userId = SecurityUtils.getUserIdFromSecurityContext();
+        String userId = SecurityUtil.getUserIdFromSecurityContext();
         assert userId != null;
 
         Optional<UserEntity> optionalUser = (Optional<UserEntity>) userRepository.findById(new ObjectId(userId));

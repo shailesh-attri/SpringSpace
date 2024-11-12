@@ -28,7 +28,7 @@ public class AuthController {
     @Operation(summary = "User Login", description = "Allows users to log in with their credentials")
     @PostMapping(value = "/login", consumes = {MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE}, produces = {MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE})
     public ResponseEntity<ResponseDTO<Map<String, Object>>> login(@RequestBody payloadDTO.LoginDTO loginRequest) {
-        log.info("Received login request for username: {}", loginRequest.getUsername());
+        logger.info("Received login request for username: {}", loginRequest.getUsername());
 
         try {
             ResponseDTO<Map<String, Object>> response = authService.login(loginRequest);
@@ -61,9 +61,9 @@ public class AuthController {
             ResponseDTO<Map<String, Object>> response = authService.saveUser(user);
 
             if (response.getStatus().is2xxSuccessful()) {
-                log.info("User registered successfully: {}", user.getUsername());
+                logger.info("User registered successfully: {}", user.getUsername());
             } else {
-                log.warn("Registration failed for username: {}", user.getUsername());
+                logger.warn("Registration failed for username: {}", user.getUsername());
             }
 
             return new ResponseEntity<>(response, response.getStatus());

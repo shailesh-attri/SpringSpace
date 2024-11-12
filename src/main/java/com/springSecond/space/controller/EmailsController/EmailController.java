@@ -3,7 +3,7 @@ package com.springSecond.space.controller.EmailsController;
 
 import com.springSecond.space.DTO.payloadDTO;
 import com.springSecond.space.ResponseDTO.ResponseDTO;
-import com.springSecond.space.services.EmailServices.EmailServices;
+import com.springSecond.space.services.EmailServices.EmailService;
 import io.swagger.v3.oas.annotations.Operation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,7 +20,7 @@ import java.util.Map;
 public class EmailController {
 
     @Autowired
-    private EmailServices emailServices;
+    private EmailService emailServices;
 
     // Logger for the controller
     private static final Logger logger = LoggerFactory.getLogger(EmailController.class);

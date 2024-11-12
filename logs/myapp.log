@@ -151,3 +151,1089 @@
 2024-11-12 10:49:53 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
 2024-11-12 10:50:08 - INFO- Fetching user list...
 2024-11-12 10:50:08 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:50:23 - INFO- Fetching user list...
+2024-11-12 10:50:23 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:50:38 - INFO- Fetching user list...
+2024-11-12 10:50:38 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:50:53 - INFO- Fetching user list...
+2024-11-12 10:50:53 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:51:08 - INFO- Fetching user list...
+2024-11-12 10:51:08 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:51:23 - INFO- Fetching user list...
+2024-11-12 10:51:23 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:51:38 - INFO- Fetching user list...
+2024-11-12 10:51:38 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:51:53 - INFO- Fetching user list...
+2024-11-12 10:51:53 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:52:08 - INFO- Fetching user list...
+2024-11-12 10:52:08 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:52:23 - INFO- Fetching user list...
+2024-11-12 10:52:23 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:52:38 - INFO- Fetching user list...
+2024-11-12 10:52:38 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:52:53 - INFO- Fetching user list...
+2024-11-12 10:52:53 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:53:08 - INFO- Fetching user list...
+2024-11-12 10:53:08 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:53:23 - INFO- Fetching user list...
+2024-11-12 10:53:23 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:53:38 - INFO- Fetching user list...
+2024-11-12 10:53:38 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:53:53 - INFO- Fetching user list...
+2024-11-12 10:53:53 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 10:54:04 - INFO- Restarting due to 29 class path changes (0 additions, 28 deletions, 1 modification)
+2024-11-12 10:54:04 - INFO- Stopping ProtocolHandler ["https-jsse-nio-8080"]
+2024-11-12 10:54:04 - INFO- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:54:04 - WARN- Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-11-12 10:54:04 - INFO- HikariPool-1 - Shutdown initiated...
+2024-11-12 10:54:04 - INFO- HikariPool-1 - Shutdown completed.
+2024-11-12 10:54:04 - INFO- Starting SecondApplication using Java 23.0.1 with PID 15208 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 10:54:04 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 10:54:04 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 10:54:05 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:05 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 10:54:05 - INFO- Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2024-11-12 10:54:05 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:05 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 10:54:05 - INFO- Finished Spring Data repository scanning in 9 ms. Found 0 MongoDB repository interfaces.
+2024-11-12 10:54:06 - INFO- Tomcat initialized with port 8080 (http)
+2024-11-12 10:54:06 - INFO- Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-12 10:54:06 - INFO- Starting service [Tomcat]
+2024-11-12 10:54:06 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 10:54:06 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 10:54:06 - INFO- Root WebApplicationContext: initialization completed in 1164 ms
+2024-11-12 10:54:06 - INFO- HikariPool-2 - Starting...
+2024-11-12 10:54:06 - INFO- HikariPool-2 - Added connection conn10: url=jdbc:h2:mem:701c9065-ee13-434c-83d2-c1288306e341 user=SA
+2024-11-12 10:54:06 - INFO- HikariPool-2 - Start completed.
+2024-11-12 10:54:06 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:701c9065-ee13-434c-83d2-c1288306e341'
+2024-11-12 10:54:06 - INFO- HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-12 10:54:06 - INFO- HHH000026: Second-level cache disabled
+2024-11-12 10:54:06 - INFO- No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-12 10:54:06 - INFO- HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-12 10:54:06 - INFO- Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:54:06 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'secondApplication': Unsatisfied dependency expressed through field 'udpServices': No qualifying bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-11-12 10:54:06 - INFO- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:54:06 - WARN- Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-11-12 10:54:06 - INFO- HikariPool-2 - Shutdown initiated...
+2024-11-12 10:54:06 - INFO- HikariPool-2 - Shutdown completed.
+2024-11-12 10:54:06 - INFO- Stopping service [Tomcat]
+2024-11-12 10:54:06 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 10:54:06 - ERROR- 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field udpServices in com.springSecond.space.SecondApplication required a bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' in your configuration.
+
+2024-11-12 10:54:07 - INFO- Starting SecondApplication using Java 23.0.1 with PID 15208 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 10:54:07 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 10:54:07 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 10:54:08 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:08 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 10:54:08 - INFO- Spring Data JPA - Could not safely identify store assignment for repository candidate interface com.springSecond.space.Repository.UserRepository.UserRepository; If you want this repository to be a JPA repository, consider annotating your entities with one of these annotations: jakarta.persistence.Entity, jakarta.persistence.MappedSuperclass (preferred), or consider extending one of the following types with your repository: org.springframework.data.jpa.repository.JpaRepository
+2024-11-12 10:54:08 - INFO- Finished Spring Data repository scanning in 10 ms. Found 0 JPA repository interfaces.
+2024-11-12 10:54:08 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:08 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 10:54:08 - INFO- Finished Spring Data repository scanning in 8 ms. Found 1 MongoDB repository interface.
+2024-11-12 10:54:08 - INFO- Tomcat initialized with port 8080 (http)
+2024-11-12 10:54:08 - INFO- Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-12 10:54:08 - INFO- Starting service [Tomcat]
+2024-11-12 10:54:08 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 10:54:08 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 10:54:08 - INFO- Root WebApplicationContext: initialization completed in 600 ms
+2024-11-12 10:54:08 - INFO- HikariPool-3 - Starting...
+2024-11-12 10:54:08 - INFO- HikariPool-3 - Added connection conn14: url=jdbc:h2:mem:04e3baf6-98d5-45f5-a5d0-9678971d857d user=SA
+2024-11-12 10:54:08 - INFO- HikariPool-3 - Start completed.
+2024-11-12 10:54:08 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:04e3baf6-98d5-45f5-a5d0-9678971d857d'
+2024-11-12 10:54:08 - ERROR- Error starting Tomcat context. Exception: org.springframework.beans.factory.UnsatisfiedDependencyException. Message: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+2024-11-12 10:54:08 - INFO- Stopping service [Tomcat]
+2024-11-12 10:54:08 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-12 10:54:08 - INFO- HikariPool-3 - Shutdown initiated...
+2024-11-12 10:54:08 - INFO- HikariPool-3 - Shutdown completed.
+2024-11-12 10:54:08 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 10:54:08 - ERROR- Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:165)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.springSecond.space.SecondApplication.main(SecondApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:147)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:516)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:222)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:188)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	... 11 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.getOrderedBeansOfType(ServletContextInitializerBeans.java:211)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:174)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:169)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAdaptableBeans(ServletContextInitializerBeans.java:154)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.<init>(ServletContextInitializerBeans.java:87)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getServletContextInitializerBeans(ServletWebServerApplicationContext.java:266)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.selfInitialize(ServletWebServerApplicationContext.java:240)
+	at org.springframework.boot.web.embedded.tomcat.TomcatStarter.onStartup(TomcatStarter.java:52)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4412)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:772)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:203)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:870)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:437)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:128)
+	... 16 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:515)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 58 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'jwt.secret' in value "${jwt.secret}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:964)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1374)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	... 69 common frames omitted
+2024-11-12 10:54:53 - INFO- Starting SecondApplication using Java 23.0.1 with PID 15208 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 10:54:53 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 10:54:53 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 10:54:53 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:53 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 10:54:53 - INFO- Finished Spring Data repository scanning in 1 ms. Found 0 JPA repository interfaces.
+2024-11-12 10:54:53 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:53 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 10:54:53 - INFO- Finished Spring Data repository scanning in 0 ms. Found 0 MongoDB repository interfaces.
+2024-11-12 10:54:53 - INFO- Tomcat initialized with port 8080 (http)
+2024-11-12 10:54:53 - INFO- Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-12 10:54:53 - INFO- Starting service [Tomcat]
+2024-11-12 10:54:53 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 10:54:53 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 10:54:53 - INFO- Root WebApplicationContext: initialization completed in 649 ms
+2024-11-12 10:54:53 - INFO- HikariPool-4 - Starting...
+2024-11-12 10:54:53 - INFO- HikariPool-4 - Added connection conn15: url=jdbc:h2:mem:7b4edfff-52e5-492a-8f98-690178c4cba7 user=SA
+2024-11-12 10:54:53 - INFO- HikariPool-4 - Start completed.
+2024-11-12 10:54:53 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:7b4edfff-52e5-492a-8f98-690178c4cba7'
+2024-11-12 10:54:53 - INFO- HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-12 10:54:53 - INFO- HHH000026: Second-level cache disabled
+2024-11-12 10:54:53 - INFO- No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-12 10:54:54 - INFO- HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-12 10:54:54 - INFO- Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:54:54 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'secondApplication': Unsatisfied dependency expressed through field 'udpServices': No qualifying bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-11-12 10:54:54 - INFO- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:54:54 - WARN- Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-11-12 10:54:54 - INFO- HikariPool-4 - Shutdown initiated...
+2024-11-12 10:54:54 - INFO- HikariPool-4 - Shutdown completed.
+2024-11-12 10:54:54 - INFO- Stopping service [Tomcat]
+2024-11-12 10:54:54 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 10:54:54 - ERROR- 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field udpServices in com.springSecond.space.SecondApplication required a bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' in your configuration.
+
+2024-11-12 10:54:55 - INFO- Starting SecondApplication using Java 23.0.1 with PID 15208 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 10:54:55 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 10:54:55 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 10:54:56 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:56 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 10:54:56 - INFO- Spring Data JPA - Could not safely identify store assignment for repository candidate interface com.springSecond.space.Repository.UserRepository.UserRepository; If you want this repository to be a JPA repository, consider annotating your entities with one of these annotations: jakarta.persistence.Entity, jakarta.persistence.MappedSuperclass (preferred), or consider extending one of the following types with your repository: org.springframework.data.jpa.repository.JpaRepository
+2024-11-12 10:54:56 - INFO- Finished Spring Data repository scanning in 14 ms. Found 0 JPA repository interfaces.
+2024-11-12 10:54:56 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:54:56 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 10:54:56 - INFO- Finished Spring Data repository scanning in 34 ms. Found 1 MongoDB repository interface.
+2024-11-12 10:54:56 - INFO- Tomcat initialized with port 8080 (http)
+2024-11-12 10:54:56 - INFO- Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-12 10:54:56 - INFO- Starting service [Tomcat]
+2024-11-12 10:54:56 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 10:54:56 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 10:54:56 - INFO- Root WebApplicationContext: initialization completed in 757 ms
+2024-11-12 10:54:56 - INFO- HikariPool-5 - Starting...
+2024-11-12 10:54:56 - INFO- HikariPool-5 - Added connection conn18: url=jdbc:h2:mem:635f8cc9-2276-4e46-9851-90617ae10037 user=SA
+2024-11-12 10:54:56 - INFO- HikariPool-5 - Start completed.
+2024-11-12 10:54:56 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:635f8cc9-2276-4e46-9851-90617ae10037'
+2024-11-12 10:54:56 - ERROR- Error starting Tomcat context. Exception: org.springframework.beans.factory.UnsatisfiedDependencyException. Message: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+2024-11-12 10:54:56 - INFO- Stopping service [Tomcat]
+2024-11-12 10:54:56 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-12 10:54:56 - INFO- HikariPool-5 - Shutdown initiated...
+2024-11-12 10:54:56 - INFO- HikariPool-5 - Shutdown completed.
+2024-11-12 10:54:56 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 10:54:56 - ERROR- Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:165)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.springSecond.space.SecondApplication.main(SecondApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:147)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:516)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:222)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:188)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	... 11 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.getOrderedBeansOfType(ServletContextInitializerBeans.java:211)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:174)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:169)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAdaptableBeans(ServletContextInitializerBeans.java:154)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.<init>(ServletContextInitializerBeans.java:87)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getServletContextInitializerBeans(ServletWebServerApplicationContext.java:266)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.selfInitialize(ServletWebServerApplicationContext.java:240)
+	at org.springframework.boot.web.embedded.tomcat.TomcatStarter.onStartup(TomcatStarter.java:52)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4412)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:772)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:203)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:870)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:437)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:128)
+	... 16 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:515)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 58 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'jwt.secret' in value "${jwt.secret}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:964)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1374)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	... 69 common frames omitted
+2024-11-12 10:54:59 - INFO- Starting SpaceApplicationTests using Java 23.0.1 with PID 12104 (started by HP in C:\Projects\space)
+2024-11-12 10:54:59 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 10:54:59 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 10:55:00 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:55:00 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 10:55:00 - INFO- Spring Data JPA - Could not safely identify store assignment for repository candidate interface com.springSecond.space.Repository.UserRepository.UserRepository; If you want this repository to be a JPA repository, consider annotating your entities with one of these annotations: jakarta.persistence.Entity, jakarta.persistence.MappedSuperclass (preferred), or consider extending one of the following types with your repository: org.springframework.data.jpa.repository.JpaRepository
+2024-11-12 10:55:00 - INFO- Finished Spring Data repository scanning in 46 ms. Found 0 JPA repository interfaces.
+2024-11-12 10:55:00 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:55:00 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 10:55:00 - INFO- Finished Spring Data repository scanning in 39 ms. Found 1 MongoDB repository interface.
+2024-11-12 10:55:01 - INFO- HikariPool-1 - Starting...
+2024-11-12 10:55:01 - INFO- HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:3ccb14d9-9ae1-4dee-985a-85bbcc6a6ee0 user=SA
+2024-11-12 10:55:01 - INFO- HikariPool-1 - Start completed.
+2024-11-12 10:55:01 - INFO- HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-12 10:55:02 - INFO- HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-12 10:55:02 - INFO- HHH000026: Second-level cache disabled
+2024-11-12 10:55:02 - INFO- No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-12 10:55:03 - INFO- HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-12 10:55:03 - INFO- Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:55:03 - INFO- Application has  started successfully and running on port: 8080
+2024-11-12 10:55:03 - INFO- Starting UDP server...
+2024-11-12 10:55:03 - INFO- UDP server thread has been started.
+2024-11-12 10:55:03 - INFO- UDP server initialization triggered.
+2024-11-12 10:55:03 - INFO- Initializing UDP server on port 8080
+2024-11-12 10:55:03 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+2024-11-12 10:55:03 - INFO- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:55:03 - INFO- HikariPool-1 - Shutdown initiated...
+2024-11-12 10:55:03 - ERROR- Failed to start UDP server on port 8080
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1347)
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1317)
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:108)
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1433)
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:328)
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:387)
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:353)
+	at com.springSecond.space.services.UdpServerServices.UdpServerServices.lambda$startUdpServer$0(UdpServerServices.java:26)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2024-11-12 10:55:03 - INFO- UDP server has stopped.
+2024-11-12 10:55:03 - INFO- HikariPool-1 - Shutdown completed.
+2024-11-12 10:55:03 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 10:55:03 - ERROR- Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:971)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:625)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1463)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:191)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:130)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:315)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:807)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:128)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:128)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:515)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 98 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'jwt.secret' in value "${jwt.secret}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:964)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1374)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	... 109 common frames omitted
+2024-11-12 10:55:03 - WARN- Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener] to prepare test instance [com.springSecond.space.SpaceApplicationTests@65021bb4]
+java.lang.IllegalStateException: Failed to load ApplicationContext for [WebMergedContextConfiguration@284b487f testClass = com.springSecond.space.SpaceApplicationTests, locations = [], classes = [com.springSecond.space.SecondApplication], contextInitializerClasses = [], activeProfiles = [], propertySourceDescriptors = [], propertySourceProperties = ["org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true"], contextCustomizers = [org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@13df2a8c, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@163370c2, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@19976a65, org.springframework.boot.test.web.reactor.netty.DisableReactorResourceFactoryGlobalResourcesContextCustomizerFactory$DisableReactorResourceFactoryGlobalResourcesContextCustomizerCustomizer@13bc8645, org.springframework.boot.test.autoconfigure.OnFailureConditionReportContextCustomizerFactory$OnFailureConditionReportContextCustomizer@cd1e646, org.springframework.boot.test.autoconfigure.actuate.observability.ObservabilityContextCustomizerFactory$DisableObservabilityContextCustomizer@1f, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizer@3116c353, org.springframework.boot.test.context.SpringBootTestAnnotation@b58ebae5], resourceBasePath = "src/main/webapp", contextLoader = org.springframework.boot.test.context.SpringBootContextLoader, parent = null]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:180)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:130)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:191)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:130)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:315)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:807)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:128)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:128)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:971)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:625)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.test.context.SpringBootContextLoader.lambda$loadContext$3(SpringBootContextLoader.java:137)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:58)
+	at org.springframework.util.function.ThrowingSupplier.get(ThrowingSupplier.java:46)
+	at org.springframework.boot.SpringApplication.withHook(SpringApplication.java:1463)
+	at org.springframework.boot.test.context.SpringBootContextLoader$ContextLoaderHook.run(SpringBootContextLoader.java:553)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:137)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:108)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:225)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:152)
+	... 73 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:515)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 98 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'jwt.secret' in value "${jwt.secret}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:964)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1374)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	... 109 common frames omitted
+2024-11-12 10:56:41 - INFO- Starting SecondApplication using Java 23.0.1 with PID 15208 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 10:56:41 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 10:56:41 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 10:56:41 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:56:41 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 10:56:41 - INFO- Finished Spring Data repository scanning in 1 ms. Found 0 JPA repository interfaces.
+2024-11-12 10:56:41 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:56:41 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 10:56:41 - INFO- Finished Spring Data repository scanning in 1 ms. Found 0 MongoDB repository interfaces.
+2024-11-12 10:56:41 - INFO- Tomcat initialized with port 8080 (http)
+2024-11-12 10:56:41 - INFO- Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-12 10:56:41 - INFO- Starting service [Tomcat]
+2024-11-12 10:56:41 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 10:56:42 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 10:56:42 - INFO- Root WebApplicationContext: initialization completed in 777 ms
+2024-11-12 10:56:42 - INFO- HikariPool-6 - Starting...
+2024-11-12 10:56:42 - INFO- HikariPool-6 - Added connection conn19: url=jdbc:h2:mem:651ab1ca-4874-430f-a72b-bd255a06de80 user=SA
+2024-11-12 10:56:42 - INFO- HikariPool-6 - Start completed.
+2024-11-12 10:56:42 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:651ab1ca-4874-430f-a72b-bd255a06de80'
+2024-11-12 10:56:42 - INFO- HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-12 10:56:42 - INFO- HHH000026: Second-level cache disabled
+2024-11-12 10:56:42 - INFO- No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-12 10:56:42 - INFO- HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-12 10:56:42 - INFO- Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:56:42 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'secondApplication': Unsatisfied dependency expressed through field 'udpServices': No qualifying bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-11-12 10:56:42 - INFO- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 10:56:42 - WARN- Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-11-12 10:56:42 - INFO- HikariPool-6 - Shutdown initiated...
+2024-11-12 10:56:42 - INFO- HikariPool-6 - Shutdown completed.
+2024-11-12 10:56:42 - INFO- Stopping service [Tomcat]
+2024-11-12 10:56:42 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 10:56:42 - ERROR- 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field udpServices in com.springSecond.space.SecondApplication required a bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.springSecond.space.services.UdpServerServices.UdpServerServices' in your configuration.
+
+2024-11-12 10:56:43 - INFO- Starting SecondApplication using Java 23.0.1 with PID 15208 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 10:56:43 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 10:56:43 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 10:56:43 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:56:43 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 10:56:43 - INFO- Spring Data JPA - Could not safely identify store assignment for repository candidate interface com.springSecond.space.Repository.UserRepository.UserRepository; If you want this repository to be a JPA repository, consider annotating your entities with one of these annotations: jakarta.persistence.Entity, jakarta.persistence.MappedSuperclass (preferred), or consider extending one of the following types with your repository: org.springframework.data.jpa.repository.JpaRepository
+2024-11-12 10:56:43 - INFO- Finished Spring Data repository scanning in 10 ms. Found 0 JPA repository interfaces.
+2024-11-12 10:56:43 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 10:56:43 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 10:56:43 - INFO- Finished Spring Data repository scanning in 9 ms. Found 1 MongoDB repository interface.
+2024-11-12 10:56:44 - INFO- Tomcat initialized with port 8080 (http)
+2024-11-12 10:56:44 - INFO- Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-12 10:56:44 - INFO- Starting service [Tomcat]
+2024-11-12 10:56:44 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 10:56:44 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 10:56:44 - INFO- Root WebApplicationContext: initialization completed in 460 ms
+2024-11-12 10:56:44 - INFO- HikariPool-7 - Starting...
+2024-11-12 10:56:44 - INFO- HikariPool-7 - Added connection conn21: url=jdbc:h2:mem:6084b845-a57f-4692-9482-fe6396d83200 user=SA
+2024-11-12 10:56:44 - INFO- HikariPool-7 - Start completed.
+2024-11-12 10:56:44 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:6084b845-a57f-4692-9482-fe6396d83200'
+2024-11-12 10:56:44 - ERROR- Error starting Tomcat context. Exception: org.springframework.beans.factory.UnsatisfiedDependencyException. Message: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+2024-11-12 10:56:44 - INFO- Stopping service [Tomcat]
+2024-11-12 10:56:44 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-12 10:56:44 - INFO- HikariPool-7 - Shutdown initiated...
+2024-11-12 10:56:44 - INFO- HikariPool-7 - Shutdown completed.
+2024-11-12 10:56:44 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 10:56:44 - ERROR- Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:165)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.springSecond.space.SecondApplication.main(SecondApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:147)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:516)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:222)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:188)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	... 11 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.getOrderedBeansOfType(ServletContextInitializerBeans.java:211)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:174)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:169)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAdaptableBeans(ServletContextInitializerBeans.java:154)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.<init>(ServletContextInitializerBeans.java:87)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getServletContextInitializerBeans(ServletWebServerApplicationContext.java:266)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.selfInitialize(ServletWebServerApplicationContext.java:240)
+	at org.springframework.boot.web.embedded.tomcat.TomcatStarter.onStartup(TomcatStarter.java:52)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4412)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:772)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:203)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:870)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:437)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:128)
+	... 16 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:515)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 58 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'jwt.secret' in value "${jwt.secret}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:964)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1374)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	... 69 common frames omitted
+2024-11-12 12:31:46 - INFO- Starting SecondApplication using Java 23.0.1 with PID 13380 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 12:31:46 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 12:31:46 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 12:31:46 - INFO- Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-11-12 12:31:46 - INFO- For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-11-12 12:31:49 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 12:31:49 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 12:31:49 - INFO- Spring Data JPA - Could not safely identify store assignment for repository candidate interface com.springSecond.space.Repository.UserRepository.UserRepository; If you want this repository to be a JPA repository, consider annotating your entities with one of these annotations: jakarta.persistence.Entity, jakarta.persistence.MappedSuperclass (preferred), or consider extending one of the following types with your repository: org.springframework.data.jpa.repository.JpaRepository
+2024-11-12 12:31:49 - INFO- Finished Spring Data repository scanning in 72 ms. Found 0 JPA repository interfaces.
+2024-11-12 12:31:49 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 12:31:49 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 12:31:49 - INFO- Finished Spring Data repository scanning in 74 ms. Found 1 MongoDB repository interface.
+2024-11-12 12:31:50 - INFO- Tomcat initialized with port 8080 (http)
+2024-11-12 12:31:51 - INFO- Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-12 12:31:51 - INFO- Starting service [Tomcat]
+2024-11-12 12:31:51 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 12:31:51 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 12:31:51 - INFO- Root WebApplicationContext: initialization completed in 4462 ms
+2024-11-12 12:31:51 - INFO- HikariPool-1 - Starting...
+2024-11-12 12:31:51 - INFO- HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:2d8da1ab-f0a1-4ffc-bd1f-356d682acb2d user=SA
+2024-11-12 12:31:51 - INFO- HikariPool-1 - Start completed.
+2024-11-12 12:31:51 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:2d8da1ab-f0a1-4ffc-bd1f-356d682acb2d'
+2024-11-12 12:31:51 - ERROR- Error starting Tomcat context. Exception: org.springframework.beans.factory.UnsatisfiedDependencyException. Message: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+2024-11-12 12:31:51 - INFO- Stopping service [Tomcat]
+2024-11-12 12:31:51 - WARN- Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2024-11-12 12:31:51 - INFO- HikariPool-1 - Shutdown initiated...
+2024-11-12 12:31:51 - INFO- HikariPool-1 - Shutdown completed.
+2024-11-12 12:31:51 - INFO- 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-11-12 12:31:51 - ERROR- Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:165)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:619)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.springSecond.space.SecondApplication.main(SecondApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:147)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:107)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:516)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:222)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:188)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	... 11 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'authFilter': Unsatisfied dependency expressed through field 'jwtUtils': Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:205)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.getOrderedBeansOfType(ServletContextInitializerBeans.java:211)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:174)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAsRegistrationBean(ServletContextInitializerBeans.java:169)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.addAdaptableBeans(ServletContextInitializerBeans.java:154)
+	at org.springframework.boot.web.servlet.ServletContextInitializerBeans.<init>(ServletContextInitializerBeans.java:87)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getServletContextInitializerBeans(ServletWebServerApplicationContext.java:266)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.selfInitialize(ServletWebServerApplicationContext.java:240)
+	at org.springframework.boot.web.embedded.tomcat.TomcatStarter.onStartup(TomcatStarter.java:52)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4412)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:772)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:203)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:870)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:437)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:128)
+	... 16 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jwtUtils': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:515)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 58 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'jwt.secret' in value "${jwt.secret}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:964)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1374)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	... 69 common frames omitted
+2024-11-12 12:36:27 - INFO- Starting SecondApplication using Java 23.0.1 with PID 12492 (C:\Projects\space\target\classes started by HP in C:\Projects\space)
+2024-11-12 12:36:27 - DEBUG- Running with Spring Boot v3.3.5, Spring v6.1.14
+2024-11-12 12:36:27 - INFO- No active profile set, falling back to 1 default profile: "default"
+2024-11-12 12:36:27 - INFO- Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-11-12 12:36:27 - INFO- For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-11-12 12:36:29 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 12:36:29 - INFO- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-12 12:36:29 - INFO- Spring Data JPA - Could not safely identify store assignment for repository candidate interface com.springSecond.space.Repository.UserRepository.UserRepository; If you want this repository to be a JPA repository, consider annotating your entities with one of these annotations: jakarta.persistence.Entity, jakarta.persistence.MappedSuperclass (preferred), or consider extending one of the following types with your repository: org.springframework.data.jpa.repository.JpaRepository
+2024-11-12 12:36:29 - INFO- Finished Spring Data repository scanning in 74 ms. Found 0 JPA repository interfaces.
+2024-11-12 12:36:29 - INFO- Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-12 12:36:29 - INFO- Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2024-11-12 12:36:29 - INFO- Finished Spring Data repository scanning in 65 ms. Found 1 MongoDB repository interface.
+2024-11-12 12:36:31 - INFO- Tomcat initialized with port 8080 (https)
+2024-11-12 12:36:32 - INFO- Initializing ProtocolHandler ["https-jsse-nio-8080"]
+2024-11-12 12:36:32 - INFO- Starting service [Tomcat]
+2024-11-12 12:36:32 - INFO- Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-12 12:36:32 - INFO- Initializing Spring embedded WebApplicationContext
+2024-11-12 12:36:32 - INFO- Root WebApplicationContext: initialization completed in 4745 ms
+2024-11-12 12:36:32 - INFO- HikariPool-1 - Starting...
+2024-11-12 12:36:32 - INFO- HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:2d43d6e2-39e9-4927-9e55-4a1b10f18f0a user=SA
+2024-11-12 12:36:32 - INFO- HikariPool-1 - Start completed.
+2024-11-12 12:36:32 - INFO- H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:2d43d6e2-39e9-4927-9e55-4a1b10f18f0a'
+2024-11-12 12:36:32 - WARN- 
+
+Using generated security password: f45451c0-23e1-4acb-8be1-18d8fdc87ee6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2024-11-12 12:36:32 - DEBUG- Filter 'authFilter' configured for use
+2024-11-12 12:36:33 - INFO- HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-12 12:36:33 - INFO- HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-11-12 12:36:33 - INFO- HHH000026: Second-level cache disabled
+2024-11-12 12:36:34 - INFO- No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-11-12 12:36:35 - INFO- HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-11-12 12:36:35 - INFO- Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-12 12:36:35 - INFO- Application has  started successfully and running on port: 8080
+2024-11-12 12:36:35 - INFO- Starting UDP server...
+2024-11-12 12:36:35 - INFO- UDP server thread has been started.
+2024-11-12 12:36:35 - INFO- UDP server initialization triggered.
+2024-11-12 12:36:35 - INFO- Initializing UDP server on port 8080
+2024-11-12 12:36:35 - INFO- UDP server started successfully on port 8080 and is now listening for messages...
+2024-11-12 12:36:35 - INFO- Adding discovered server ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017 to client view of cluster
+2024-11-12 12:36:35 - INFO- MongoClient with metadata {"driver": {"name": "mongo-java-driver|sync|spring-boot", "version": "5.0.1"}, "os": {"type": "Windows", "name": "Windows 10", "architecture": "amd64", "version": "10.0"}, "platform": "Java/Oracle Corporation/23.0.1+11-39"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=MongoCredential{mechanism=null, userName='shaileshattri83', source='admin', password=<hidden>, mechanismProperties=<hidden>}, transportSettings=null, commandListeners=[], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@1db8b021, com.mongodb.Jep395RecordCodecProvider@6c230e1f, com.mongodb.KotlinCodecProvider@70c13ba4]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[127.0.0.1:27017], srvHost=cluster0.8gah18k.mongodb.net, srvServiceName=mongodb, mode=MULTIPLE, requiredClusterType=REPLICA_SET, requiredReplicaSetName='atlas-89rnlo-shard-0', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=true, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null}
+2024-11-12 12:36:35 - INFO- Adding discovered server ac-yznohnd-shard-00-00.8gah18k.mongodb.net:27017 to client view of cluster
+2024-11-12 12:36:35 - INFO- Adding discovered server ac-yznohnd-shard-00-02.8gah18k.mongodb.net:27017 to client view of cluster
+2024-11-12 12:36:36 - INFO- LiveReload server is running on port 35729
+2024-11-12 12:36:37 - INFO- Monitor thread successfully connected to server with description ServerDescription{address=ac-yznohnd-shard-00-00.8gah18k.mongodb.net:27017, type=REPLICA_SET_SECONDARY, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=21, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=683759600, setName='atlas-89rnlo-shard-0', canonicalAddress=ac-yznohnd-shard-00-00.8gah18k.mongodb.net:27017, hosts=[ac-yznohnd-shard-00-00.8gah18k.mongodb.net:27017, ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017, ac-yznohnd-shard-00-02.8gah18k.mongodb.net:27017], passives=[], arbiters=[], primary='ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017', tagSet=TagSet{[Tag{name='availabilityZone', value='aps1-az1'}, Tag{name='diskState', value='READY'}, Tag{name='nodeType', value='ELECTABLE'}, Tag{name='provider', value='AWS'}, Tag{name='region', value='AP_SOUTH_1'}, Tag{name='workloadType', value='OPERATIONAL'}]}, electionId=null, setVersion=150, topologyVersion=TopologyVersion{processId=672e52c7ecd8a2a70ea016c1, counter=5}, lastWriteDate=Tue Nov 12 12:36:39 IST 2024, lastUpdateTimeNanos=876991472200}
+2024-11-12 12:36:37 - INFO- Monitor thread successfully connected to server with description ServerDescription{address=ac-yznohnd-shard-00-02.8gah18k.mongodb.net:27017, type=REPLICA_SET_SECONDARY, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=21, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=683341800, setName='atlas-89rnlo-shard-0', canonicalAddress=ac-yznohnd-shard-00-02.8gah18k.mongodb.net:27017, hosts=[ac-yznohnd-shard-00-00.8gah18k.mongodb.net:27017, ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017, ac-yznohnd-shard-00-02.8gah18k.mongodb.net:27017], passives=[], arbiters=[], primary='ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017', tagSet=TagSet{[Tag{name='availabilityZone', value='aps1-az2'}, Tag{name='diskState', value='READY'}, Tag{name='nodeType', value='ELECTABLE'}, Tag{name='provider', value='AWS'}, Tag{name='region', value='AP_SOUTH_1'}, Tag{name='workloadType', value='OPERATIONAL'}]}, electionId=null, setVersion=150, topologyVersion=TopologyVersion{processId=672e542ea5b5231496b9418f, counter=5}, lastWriteDate=Tue Nov 12 12:36:39 IST 2024, lastUpdateTimeNanos=876991069100}
+2024-11-12 12:36:37 - INFO- Monitor thread successfully connected to server with description ServerDescription{address=ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017, type=REPLICA_SET_PRIMARY, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=21, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=684095100, setName='atlas-89rnlo-shard-0', canonicalAddress=ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017, hosts=[ac-yznohnd-shard-00-00.8gah18k.mongodb.net:27017, ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017, ac-yznohnd-shard-00-02.8gah18k.mongodb.net:27017], passives=[], arbiters=[], primary='ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017', tagSet=TagSet{[Tag{name='availabilityZone', value='aps1-az3'}, Tag{name='diskState', value='READY'}, Tag{name='nodeType', value='ELECTABLE'}, Tag{name='provider', value='AWS'}, Tag{name='region', value='AP_SOUTH_1'}, Tag{name='workloadType', value='OPERATIONAL'}]}, electionId=7fffffff000000000000021f, setVersion=150, topologyVersion=TopologyVersion{processId=672e51bd77d8e220b54b16a5, counter=9}, lastWriteDate=Tue Nov 12 12:36:39 IST 2024, lastUpdateTimeNanos=876991679900}
+2024-11-12 12:36:37 - INFO- Discovered replica set primary ac-yznohnd-shard-00-01.8gah18k.mongodb.net:27017 with max election id 7fffffff000000000000021f and max set version 150
+2024-11-12 12:36:37 - WARN- spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-12 12:36:37 - INFO- Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2024-11-12 12:36:39 - INFO- Starting ProtocolHandler ["https-jsse-nio-8080"]
+2024-11-12 12:36:39 - INFO- Connector [https-jsse-nio-8080], TLS virtual host [_default_], certificate type [UNDEFINED] configured from keystore [C:\Users\HP\.keystore] using alias [my-ssl-certificate] with trust store [null]
+2024-11-12 12:36:39 - INFO- Tomcat started on port 8080 (https) with context path '/'
+2024-11-12 12:36:39 - INFO- Started SecondApplication in 13.559 seconds (process running for 14.83)
+2024-11-12 12:36:39 - INFO- Scheduled task started to send email to: shailesh.attri@axieva.com
+2024-11-12 12:36:44 - INFO- Email sent successfully to shailesh.attri@axieva.com
+2024-11-12 12:36:44 - INFO- Scheduled email has been successfully sent to: shailesh.attri@axieva.com
+2024-11-12 12:36:44 - INFO- Fetching user list...
+2024-11-12 12:36:45 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:36:54 - INFO- Fetching user list...
+2024-11-12 12:36:54 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:37:09 - INFO- Fetching user list...
+2024-11-12 12:37:09 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:37:24 - INFO- Fetching user list...
+2024-11-12 12:37:24 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:37:39 - INFO- Fetching user list...
+2024-11-12 12:37:39 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:37:54 - INFO- Fetching user list...
+2024-11-12 12:37:54 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:38:09 - INFO- Fetching user list...
+2024-11-12 12:38:09 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:38:24 - INFO- Fetching user list...
+2024-11-12 12:38:24 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:38:39 - INFO- Fetching user list...
+2024-11-12 12:38:39 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:38:54 - INFO- Fetching user list...
+2024-11-12 12:38:54 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:39:09 - INFO- Fetching user list...
+2024-11-12 12:39:09 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:39:24 - INFO- Fetching user list...
+2024-11-12 12:39:24 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:39:39 - INFO- Fetching user list...
+2024-11-12 12:39:39 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:39:54 - INFO- Fetching user list...
+2024-11-12 12:39:54 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:40:09 - INFO- Fetching user list...
+2024-11-12 12:40:09 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:40:24 - INFO- Fetching user list...
+2024-11-12 12:40:24 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:40:39 - INFO- Fetching user list...
+2024-11-12 12:40:39 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:40:54 - INFO- Fetching user list...
+2024-11-12 12:40:54 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}
+2024-11-12 12:41:09 - INFO- Fetching user list...
+2024-11-12 12:41:09 - INFO- Fetched user list: ResponseDTO{status=200 OK, message='User list fetched successfully', result={user=[{imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f4cff4bcfbc6dddb3a156, email=shailesh@gmail.com, username=shailesh}, {imagePublicId=Default Public ID, imageUrl=Default Image URL, id=672f5057c72a5a4aba0e6898, email=sachin@gmail.com, username=sachin}]}, error='null'}

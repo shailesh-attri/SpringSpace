@@ -12,12 +12,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Service
-public class EmailServices {
+public class EmailService{
 
     @Autowired
     private JavaMailSender javaMailSender;
 
-    private static final Logger logger = LoggerFactory.getLogger(EmailServices.class);
+    private static final Logger logger = LoggerFactory.getLogger(EmailService.class);
 
     private static final String SENDER_EMAIL = "shaileshattri83@gmail.com"; // Make sure to externalize this
 
