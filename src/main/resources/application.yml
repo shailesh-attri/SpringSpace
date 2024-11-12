@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: INFO  # This sets the default log level for all classes
+    com.springSecond.space: DEBUG
+
+  file:
+    name: logs/myapp.log  # Log file path and name
+
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %level - %msg%n"  # Log format for console output
+    file: "%d{yyyy-MM-dd HH:mm:ss} - %level - %msg%n"    # Log format for file output
