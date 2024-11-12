@@ -34,7 +34,7 @@ public class SecondApplication {
 	@PostConstruct
 	public void logApplicationStartup() {
 		String port = environment.getProperty("server.port", "8080");  // Default to 8080 if not set
-		logger.info("Application started successfully and running on port: {}", port);
+		logger.info("Application has  started successfully and running on port: {}", port);
 
 		logger.info("Starting UDP server...");
 		udpServices.startUdpServer();
